@@ -1,7 +1,11 @@
 ## Instalasi Library
 
-Persiapan untuk menggunakan Library skfuzzy dan numpy
-
 ```bash
     pip install pandas numpy matplotlib seaborn scikit-fuzzy scikit-learn
+```
+
+## How to run
+
+```bash
+    python fuzzy.py
 ```
